@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
+here is my image:
 ![](https://en.wikipedia.org/wiki/Orbit#/media/File:Soyuz_TMA-7_spacecraft2edit1.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
