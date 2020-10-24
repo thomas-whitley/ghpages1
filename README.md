@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 
-!(https://en.wikipedia.org/wiki/Orbit#/media/File:Soyuz_TMA-7_spacecraft2edit1.jpg)
+![](https://en.wikipedia.org/wiki/Orbit#/media/File:Soyuz_TMA-7_spacecraft2edit1.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
