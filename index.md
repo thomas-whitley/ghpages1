@@ -27,8 +27,8 @@ Syntax highlighted code block
 
 ```
 
-my image:
-![Image](https://en.wikipedia.org/wiki/Orbit#/media/File:Soyuz_TMA-7_spacecraft2edit1.jpg)
+my 3d:
+<script src="https://embed.github.com/view/3d/thomas-whitley/ghpages1/main/Sphericon.stl"></script>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
