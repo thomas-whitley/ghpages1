@@ -1,0 +1,555 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3745193481445, 25.7580642700195
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7580642700195, 
+        "Longitude" : -80.3745193481445, 
+        "Altitude__" : 2.74328637123108, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 213 ft\nVertical Accuracy: ┬▒ 33 ft", 
+        "OBJECTID" : 2, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "communication", 
+        "Informatio" : "Department of Communication", 
+        "FID" : 1
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3745040893555, 25.7582092285156
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7582092285156, 
+        "Longitude" : -80.3745040893555, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 105 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 3, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "Art and Art History", 
+        "Informatio" : "Department of Art history", 
+        "FID" : 2
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3753509521484, 25.7588138580322
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7588138580322, 
+        "Longitude" : -80.3753509521484, 
+        "Altitude__" : 3.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 105 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 4, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "architecture building", 
+        "Informatio" : "Department of Architecture", 
+        "FID" : 3
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.376724243164, 25.7588367462158
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7588367462158, 
+        "Longitude" : -80.3767242431641, 
+        "Altitude__" : 3.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 105 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 5, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "education", 
+        "Informatio" : "Department of Teaching and Learning", 
+        "FID" : 4
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3765563964844, 25.757719039917
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.757719039917, 
+        "Longitude" : -80.3765563964844, 
+        "Altitude__" : 3.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 26 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 6, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "cbc", 
+        "Informatio" : "Business School", 
+        "FID" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3763656616211, 25.7576351165771
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7576351165771, 
+        "Longitude" : -80.3763656616211, 
+        "Altitude__" : 3.47612380981445, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 20 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 7, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "ryder business center", 
+        "Informatio" : "School of Business", 
+        "FID" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3764953613281, 25.7575626373291
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7575626373291, 
+        "Longitude" : -80.3764953613281, 
+        "Altitude__" : 3.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 20 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 8, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "mango", 
+        "Informatio" : "Undergraduate Business Advising", 
+        "FID" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3772354125977, 25.7572154998779
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7572154998779, 
+        "Longitude" : -80.3772354125977, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 53 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 9, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "college of law", 
+        "Informatio" : "School of Law", 
+        "FID" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3771896362305, 25.7566318511963
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7566318511963, 
+        "Longitude" : -80.3771896362305, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 26 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 10, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "english labor center", 
+        "Informatio" : "African and African Diaspora Studies", 
+        "FID" : 9
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3770523071289, 25.7566165924072
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7566165924072, 
+        "Longitude" : -80.3770523071289, 
+        "Altitude__" : 2.51145958900452, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 105 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 12, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : null, 
+        "Informatio" : null, 
+        "FID" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3760223388672, 25.7567043304443
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7567043304443, 
+        "Longitude" : -80.3760223388672, 
+        "Altitude__" : 2.76101040840149, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 13 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 13, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "School of International and Public Affairs", 
+        "Informatio" : "Muslim Studies", 
+        "FID" : 11
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3764266967773, 25.7564277648926
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7564277648926, 
+        "Longitude" : -80.3764266967773, 
+        "Altitude__" : 4.96146583557129, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 158 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 14, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "SIPA", 
+        "Informatio" : "Department of Global and Socialcultural Studies", 
+        "FID" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3746337890625, 25.7560119628906
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7560119628906, 
+        "Longitude" : -80.3746337890625, 
+        "Altitude__" : 5.75981092453003, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 0 ft\nVertical Accuracy: ┬▒ 0 ft", 
+        "OBJECTID" : 15, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "Deuxime Maison", 
+        "Informatio" : "Department of Modern Languages", 
+        "FID" : 13
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3731231689453, 25.7578125
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7578125, 
+        "Longitude" : -80.3731231689453, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 53 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 16, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "Owa Ehan", 
+        "Informatio" : "Department of Biology", 
+        "FID" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3730316162109, 25.7579555511475
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7579555511475, 
+        "Longitude" : -80.3730316162109, 
+        "Altitude__" : 5.79093980789185, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 213 ft\nVertical Accuracy: ┬▒ 33 ft", 
+        "OBJECTID" : 17, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : null, 
+        "Informatio" : null, 
+        "FID" : 15
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3725433349609, 25.7582969665527
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7582969665527, 
+        "Longitude" : -80.3725433349609, 
+        "Altitude__" : 3.4211049079895, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 105 ft\nVertical Accuracy: ┬▒ 46 ft", 
+        "OBJECTID" : 18, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "Department of Physics", 
+        "Informatio" : "Department of Physics", 
+        "FID" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3721694946289, 25.7582988739014
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7582988739014, 
+        "Longitude" : -80.3721694946289, 
+        "Altitude__" : 3.26727700233459, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 105 ft\nVertical Accuracy: ┬▒ 47 ft", 
+        "OBJECTID" : 19, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "Department of Chemistry", 
+        "Informatio" : "Department of Chemistry", 
+        "FID" : 17
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3714370727539, 25.7584629058838
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7584629058838, 
+        "Longitude" : -80.3714370727539, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 53 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 20, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "AHC 3", 
+        "Informatio" : "Athletic Training", 
+        "FID" : 18
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.37109375, 25.7587375640869
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7587375640869, 
+        "Longitude" : -80.37109375, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 53 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 21, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "AHC 5", 
+        "Informatio" : "Department of Social Work", 
+        "FID" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3723220825195, 25.7593402862549
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7593402862549, 
+        "Longitude" : -80.3723220825195, 
+        "Altitude__" : 2.51145172119141, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 53 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 22, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "AHC 4", 
+        "Informatio" : "Academic health center", 
+        "FID" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3710327148438, 25.7577209472656
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7577209472656, 
+        "Longitude" : -80.3710327148438, 
+        "Altitude__" : 2.51380085945129, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 79 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 23, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "AHC 1", 
+        "Informatio" : null, 
+        "FID" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.3710556030273, 25.7577724456787
+        ]
+      }, 
+      "properties" : {
+        "Date_" : 1543104000000, 
+        "Name" : "(null)", 
+        "Latitude" : 25.7577724456787, 
+        "Longitude" : -80.3710556030273, 
+        "Altitude__" : 2.5137767791748, 
+        "Notes" : "Horizontal Accuracy: ┬▒ 53 ft\nVertical Accuracy: ┬▒ 10 ft", 
+        "OBJECTID" : 24, 
+        "department" : null, 
+        "Departme_1" : "Education", 
+        "Name1" : "AHC 2", 
+        "Informatio" : "College of Medicine", 
+        "FID" : 22
+      }
+    }
+  ]
+}
