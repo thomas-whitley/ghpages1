@@ -1,6 +1,6 @@
 A GeoJSON file format rendering (Florida STCM points):
 
-<script src="https://embed.github.com/view/geojson/thomas-whitley/ghpages1/main/STCM.geojson?height=1000&width=1000"></script>
+<script src="https://embed.github.com/view/geojson/thomas-whitley/ghpages1/main/STCM.geojson?height=900&width=1100"></script>
 \
 \
 ...a sample stl file format 3d rendering:
