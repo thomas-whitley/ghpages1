@@ -1,6 +1,6 @@
 my GeoJSON rendering:
 
-<script src="https://embed.github.com/view/geojson/thomas-whitley/ghpages1/main/STCM.geojson"></script>
+<script src="https://embed.github.com/view/geojson/thomas-whitley/ghpages1/main/STCM.geojson?height=300&width=1000"></script>
 
 
 
