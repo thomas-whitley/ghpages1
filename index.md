@@ -27,6 +27,9 @@ Syntax highlighted code block
 
 ```
 
+my GeoJSON rendering:
+<script src="https://embed.github.com/view/3d/thomas-whitley/ghpages1/main/STCM.geojson"></script>
+
 my 3d:
 <script src="https://embed.github.com/view/3d/thomas-whitley/ghpages1/main/Sphericon.stl"></script>
 
